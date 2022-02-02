@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>homepage</title>
+  <link rel="styleseet" href="style.css">
+  </head>
+  <body>
+<div class="banner"
+
+</div>
+
+
+
+  </body>
+  </html>
